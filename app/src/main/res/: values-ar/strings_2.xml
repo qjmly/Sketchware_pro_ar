@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="design_library_firebase_title_app_id">معرّف التطبيق</string>
+    <string name="design_library_firebase_title_data_location">موقع البيانات</string>
+    <string name="design_library_firebase_title_firebase">Firebase</string>
+    <string name="design_library_firebase_title_firebase_manager">مدير Firebase</string>
+    <string name="design_library_firebase_title_firebase_settings">إعدادات Firebase</string>
+    <string name="design_library_firebase_title_firebase_setup_tutorial">شرح إعداد Firebase</string>
+    <string name="design_library_firebase_title_project_id">رابط قاعدة البيانات الكامل (مثال: sk-pro-default-rtdb.firebaseio.com)</string>
+    <string name="design_library_firebase_title_storage_bucket_url">رابط Storage Bucket</string>
+    <string name="design_library_google_map_button_open_doc">فتح التوثيق</string>
+    <string name="design_library_google_map_title">GoogleMap</string>
+    <string name="design_library_google_map_title_api_key">API KEY</string>
+    <string name="design_library_google_maps_description_operate_normally">"يمكن تشغيل Google Map View.
+
+يجب إدخال مفتاح API لتعمل الخريطة بشكل طبيعي."</string>
+    <string name="design_library_guide_setup_first">لاستخدام هذا المكوّن، يجب إعداد الإعدادات في مدير المكتبات أولاً.</string>
+    <string name="design_library_message_confirm_uncheck_appcompat_and_design">سيتم حذف Drawer Layout وFAB الموجودين. هل تريد المتابعة؟</string>
+    <string name="design_library_message_confirm_uncheck_google_map">سيتم حذف MapView الموجود. هل تريد المتابعة؟</string>
+    <string name="design_library_message_slow_down_compilation_time">قد يؤدي تضمين المكتبة إلى إبطاء وقت التجميع على بعض الأجهزة.</string>
+    <string name="design_library_settings_guide_tutorial">"يُرجى الرجوع إلى الشرح إذا كانت هذه أول مرة تقوم فيها بالإعداد."</string>
+    <string name="design_library_settings_title_enabled">مفعّل</string>
+    <string name="design_library_title_appcompat">AppCompat</string>
+    <string name="design_library_title_appcompat_and_design">AppCompat وDesign</string>
+    <string name="design_library_title_select_project">اختر مشروعاً</string>
+    <string name="design_manager_block_detail_actionbar_title">تفاصيل الكتلة</string>
+    <string name="design_manager_block_hint_enter_block_name">أدخل اسم الكتلة</string>
+    <string name="design_manager_change_name_button">تغيير الاسم</string>
+    <string name="design_manager_font_description_guide_add_font">أضف ملفات الخطوط ذات الامتداد .ttf</string>
+    <string name="design_manager_font_description_look_like_this">سيبدو خطي الجديد هكذا!</string>
+    <string name="design_manager_font_hint_enter_font_name">أدخل اسم الخط</string>
+    <string name="design_manager_font_message_not_support_font">إذا كان جهازك لا يدعم الخط أعلاه، فقد لا يظهر النص الذي بين القوسين</string>
+    <string name="design_manager_font_title_add_font">إضافة خط</string>
+    <string name="design_manager_font_title_apply_same_naming">تطبيق نمط التسمية نفسه على بقية الخطوط المتاحة</string>
+    <string name="design_manager_font_title_edit_font">تعديل الخط</string>
+    <string name="design_manager_font_title_edit_font_name">تعديل اسم الخط</string>
+    <string name="design_manager_icon_actionbar_title">استيراد أيقونة</string>
+    <string name="design_manager_icon_hint_enter_icon_name">أدخل اسم الأيقونة</string>
+    <string name="design_manager_image_description_guide_add_image">"إذا أضفت صورة هنا
+
+يمكنك استخدامها كأيقونة (Icon) أو ImageView"</string>
+    <string name="design_manager_image_hint_enter_image_name">أدخل اسم الصورة</string>
+    <string name="design_manager_image_import_icon_button_black">أسود</string>
+    <string name="design_manager_image_import_icon_button_grey">رمادي</string>
+    <string name="design_manager_image_import_icon_button_white">أبيض</string>
+    <string name="design_manager_image_title_add_image">إضافة صورة</string>
+    <string name="design_manager_image_title_apply_same_naming">تطبيق نمط التسمية نفسه على بقية الصور المتاحة</string>
+    <string name="design_manager_image_title_edit_image">تعديل الصورة</string>
+    <string name="design_manager_image_title_edit_image_name">تعديل اسم الصورة</string>
+    <string name="design_manager_message_add_complete">اكتملت الإضافة</string>
+    <string name="design_manager_message_collection_name_conflict">يبدو أن هناك تعارضاً في الأسماء. يُرجى التأكد من عدم وجود أسماء مكررة.</string>
+    <string name="design_manager_message_collection_name_no_conflict">لم يتم العثور على تعارض في الأسماء</string>
+    <string name="design_manager_message_edit_complete">اكتمل التعديل</string>
+    <string name="design_manager_message_invalid_font">الخط المحدد غير صالح</string>
+    <string name="design_manager_message_no_font_selected">يجب اختيار خط جديد</string>
+    <string name="design_manager_message_import_complete">اكتمل الاستيراد</string>
+    <string name="design_manager_sound_description_guide_add_sound">"أضف الموسيقى الخلفية
+
+أو المؤثرات الصوتية هنا"</string>
+    <string name="design_manager_sound_hint_enter_sound_name">أدخل اسم الصوت</string>
+    <string name="design_manager_sound_title_add_sound">إضافة صوت</string>
+    <string name="design_manager_sound_title_apply_same_naming">تطبيق نمط التسمية نفسه على بقية الأصوات المتاحة</string>
+    <string name="design_manager_sound_title_edit_sound">تعديل الصوت</string>
+    <string name="design_manager_sound_title_edit_sound_name">تعديل اسم الصوت</string>
+    <string name="design_manager_tab_title_my_collection">مجموعتي</string>
+    <string name="design_manager_tab_title_this_project">هذا المشروع</string>
+    <string name="design_manager_title_add_to_collection">إضافة إلى مجموعتي</string>
+    <string name="design_manager_view_description_guide_create_activity">لإنشاء نشاط (Activity) جديد، أضفه هنا</string>
+    <string name="design_manager_view_description_guide_create_custom_view">أنشئ عرضاً مخصصاً (Custom View) جديداً هنا</string>
+    <string name="design_manager_view_description_guide_use_custom_view">يمكن استخدام العرض المخصص (Custom View) لتغيير طريقة عرض العناصر داخل ListView أو Spinner</string>
+    <string name="design_manager_view_hint_enter_view_name">أدخل اسم الشاشة</string>
+    <string name="design_manager_view_message_no_view">لا توجد شاشات لعرضها</string>
+    <string name="design_manager_view_message_slow_down">قد يؤدي تضمين القائمة الجانبية (Drawer) أو FAB إلى إبطاء وقت التجميع على بعض الأجهزة.</string>
+    <string name="design_manager_view_title_activity_name">اسم النشاط (Activity):</string>
+    <string name="design_manager_view_title_activity_preset">قالب النشاط (Activity)</string>
+    <string name="design_manager_view_title_add_custom_view">عرض مخصص جديد</string>
+    <string name="design_manager_view_title_add_activity">نشاط جديد</string>
+    <string name="design_manager_view_title_add_view">شاشة جديدة</string>
+    <string name="design_manager_view_title_edit_activity">تعديل النشاط</string>
+    <string name="design_manager_view_title_edit_view">تعديل الشاشة</string>
+    <string name="design_manager_view_title_empty_activity">نشاط فارغ</string>
+    <string name="design_manager_view_title_keyboad_settings">إعدادات لوحة المفاتيح</string>
+    <string name="design_manager_view_title_screen_orientation">اتجاه الشاشة</string>
+    <string name="design_manager_view_title_view_name">اسم الشاشة:</string>
+    <string name="design_manager_widget_hint_enter_widget_name">أدخل اسم الأداة</string>
+    <string name="design_manager_widget_title_actionbar_title">تفاصيل الأداة</string>
+    <string name="design_option_menu_title_save_project">حفظ المشروع</string>
+    <string name="design_property_recent_message_nodata">ستظهر هنا الخصائص المستخدمة مؤخراً</string>
+    <string name="design_quit_button_save_and_exit">حفظ وخروج</string>
+    <string name="design_quit_message_confirm_save">هل تريد حفظ التغييرات قبل الخروج؟</string>
+    <string name="design_quit_title_exit_projet">الخروج من المشروع</string>
+    <string name="design_restore_data_message_confirm">حدث خطأ ولم تُحفظ البيانات السابقة. هل تريد استعادتها؟</string>
+    <string name="design_restore_data_title">استعادة بيانات المشروع</string>
+    <string name="design_run_message_invalid_forever_block">كتلة الإيقاف (Stop) غير موجودة داخل كتلة forever</string>
+    <string name="design_run_message_usage_break_block">يمكن استخدام كتلة break داخل كتلتي repeat أو forever فقط</string>
+    <string name="design_run_title_ready_to_build">جارٍ التحضير للبناء</string>
+    <string name="design_cancel_build_title">إلغاء البناء؟</string>
+    <string name="design_cancel_build_desc">هل أنت متأكد أنك تريد إلغاء البناء؟ قد يستغرق ذلك بعض الوقت.</string>
+    <string name="design_cancel_build_btn_stop">إيقاف البناء</string>
+    <string name="design_cancel_build_btn_continue">متابعة البناء</string>
+    <string name="design_tab_title_component">المكوّنات</string>
+    <string name="design_tab_title_event">الأحداث</string>
+    <string name="design_tab_title_view">الواجهة</string>
+    <string name="developer_tools_component_add_var">متغيرات إضافية</string>
+    <string name="developer_tools_component_build_class">فئة البناء (Build Class)</string>
+    <string name="developer_tools_component_define_add_var">تعريف المتغيرات الإضافية</string>
+    <string name="developer_tools_component_description">الوصف (اختياري)</string>
+    <string name="developer_tools_component_description_guide_add_component">"إذا أضفت مكوّناً هنا
+
+يمكنك استخدامه في محرر المنطق"</string>
+    <string name="developer_tools_component_url">رابط التوثيق (اختياري)</string>
+    <string name="developer_tools_component_id">معرّف المكوّن (مطلوب)</string>
+    <string name="developer_tools_component_icon">أيقونة المكوّن (مطلوب)</string>
+    <string name="developer_tools_component_imports">الاستيرادات (Imports)</string>
+    <string name="developer_tools_component_manager">مدير المكوّنات</string>
+    <string name="developer_tools_component_message_export">هل أنت متأكد أنك تريد تصدير %s؟</string>
+    <string name="developer_tools_component_name">اسم المكوّن (مطلوب)</string>
+    <string name="developer_tools_component_success_message_export">تم تصدير المكوّن بنجاح إلى:\n%s</string>
+    <string name="developer_tools_component_type_class">فئة النوع (Type Class)</string>
+    <string name="developer_tools_component_type_name">اسم النوع (Type Name)</string>
+    <string name="developer_tools_component_var_type_name">اسم نوع المتغير (Variable Type Name)</string>
+    <string name="event_context_menu_title">قائمة الحدث</string>
+    <string name="event_context_menu_title_delete_event">حذف الحدث</string>
+    <string name="event_context_menu_title_delete_more_block">حذف الكتلة الإضافية (moreBlock)</string>
+    <string name="event_context_menu_title_initialize_logic">تهيئة المنطق</string>
+    <string name="event_definefunc">كتلة إضافية (MoreBlock)</string>
+    <string name="event_dialog_confirm_delete_component">هل أنت متأكد أنك تريد حذف المكوّن المحدد؟</string>
+    <string name="event_dialog_confirm_delete_logic">"ستُفقد كل بيانات المنطق للحدث المحدد
+
+هل تريد المتابعة؟"</string>
+    <string name="event_dialog_confirm_delete_moreblock">هل أنت متأكد أنك تريد حذف هذه الكتلة الإضافية (moreBlock)؟</string>
+    <string name="event_dialog_confirm_reset_logic">هل أنت متأكد أنك تريد إعادة ضبط هذا المنطق؟</string>
+    <string name="event_initialize">عند إنشاء النشاط</string>
+    <string name="event_message_new_event">تمت إضافة حدث جديد</string>
+    <string name="event_message_new_events">تمت إضافة أحداث جديدة</string>
+    <string name="event_message_no_avail_events">لا توجد أحداث متاحة للإضافة</string>
+    <string name="event_message_no_events">لا توجد أحداث لعرضها</string>
+    <string name="event_onbackpressed">عند الضغط على زر الرجوع</string>
+    <string name="event_ondestroy">عند تدمير النشاط</string>
+    <string name="event_onpause">عند إيقاف النشاط مؤقتاً</string>
+    <string name="event_onpostcreated">عند اكتمال بدء تشغيل النشاط</string>
+    <string name="event_onresume">عند استئناف النشاط</string>
+    <string name="event_onstart">عندما يصبح النشاط مرئياً</string>
+    <string name="event_onstop">عندما لا يعود النشاط مرئياً</string>
+    <string name="event_title_add_new_component">إضافة مكوّن جديد</string>
+    <string name="event_title_add_new_event">إضافة حدث جديد</string>
+    <string name="event_title_edit_component">تعديل المكوّن</string>
+    <string name="invalid_component">مكوّن غير صالح</string>
+    <string name="invalid_icon_id">معرّف أيقونة غير صالح</string>
+    <string name="invalid_required_fields">بعض الحقول المطلوبة فارغة</string>
+    <string name="invalid_value_format">تنسيق غير صالح</string>
+    <string name="invalid_value_max_lenth">يمكنك استخدام %d حرفاً كحد أقصى</string>
+    <string name="invalid_value_min_lenth">استخدم %d حرف (أحرف) على الأقل</string>
+    <string name="invalid_value_rule_1">استخدم فقط الأحرف الإنجليزية (a-z) والأرقام والرموز الخاصة (.) و(@)</string>
+    <string name="invalid_value_rule_2">استخدم فقط الأحرف الإنجليزية (a-z) والأرقام والرمز الخاص (.)</string>
+    <string name="invalid_value_rule_3">استخدم فقط الأحرف الإنجليزية (a-z) والأرقام والرمز الخاص (_)</string>
+    <string name="invalid_value_rule_4">استخدم فقط الأحرف الإنجليزية الصغيرة (a-z) والأرقام والرمز الخاص (_)</string>
+    <string name="invalid_value_rule_5">"الرموز الخاصة (&amp;, &lt;, >, \", ') غير مسموح بها"</string>
+    <string name="invalid_value_rule_6">المسافات غير مسموحة</string>
+    <string name="logic_block_favorites_delete_message">هل أنت متأكد أنك تريد حذف الكتلة المحفوظة من مجموعتي؟ لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="logic_block_favorites_delete_title">الحذف من مجموعتي</string>
+    <string name="logic_block_favorites_save_guide">تُضاف الكتل المحفوظة إلى مجموعتي ويمكن الوصول إليها من جميع المشاريع.</string>
+    <string name="logic_block_favorites_save_title">حفظ الكتلة في مجموعتي</string>
+    <string name="logic_button_explore_shared_more_block">الكتل الإضافية المشتركة</string>
+    <string name="logic_button_import_more_block">الاستيراد من المجموعة</string>
+    <string name="logic_search_events">ابحث في الأحداث…</string>
+    <string name="logic_sort_menu">خيارات الترتيب</string>
+    <string name="logic_sort_default">الافتراضي</string>
+    <string name="logic_sort_alphabetical">أبجدياً (A-Z)</string>
+    <string name="logic_sort_type">حسب الأداة</string>
+    <string name="logic_editor_component_firebaseauth_title_select_firebase_auth">اختر مكوّن Firebase Auth</string>
+    <string name="logic_editor_hint_enter_variable_name">أدخل اسم المتغير (حساس لحالة الأحرف)</string>
+    <string name="logic_editor_message_currently_used_block">"الكتلة المحددة مستخدمة حالياً
+
+يُرجى المحاولة مرة أخرى بعد إزالة الكتلة (الكتل)"</string>
+    <string name="logic_editor_message_currently_used_list">"القائمة المحددة مستخدمة حالياً
+
+يُرجى المحاولة مرة أخرى بعد إزالة الكتل التي تستخدم هذه القائمة"</string>
+    <string name="logic_editor_message_currently_used_variable">"المتغير المحدد مستخدم حالياً
+
+يُرجى المحاولة مرة أخرى بعد إزالة الكتل التي تستخدم هذا المتغير"</string>
+    <string name="logic_editor_message_name_requied">مطلوب اسم صالح للكتلة الإضافية (Moreblock)</string>
+    <string name="logic_editor_message_reserved_keywords">"لا يمكن استخدام الكلمات المحجوزة"</string>
+    <string name="logic_editor_message_select_copy_block">اختر الكتلة التي تريد نسخها</string>
+    <string name="logic_editor_message_variable_name_must_start_letter">يجب أن يبدأ اسم المتغير بحرف</string>
+    <string name="logic_editor_more_block_actionbar_title_create_more_block">إنشاء كتلة إضافية (More Block) جديدة</string>
+    <string name="logic_editor_more_block_button_add">إضافة</string>
+    <string name="logic_editor_more_block_dialog_description_goback">سيتم فقدان عملك الحالي</string>
+    <string name="logic_editor_more_block_dialog_message_confirm_goback">هل أنت متأكد؟</string>
+    <string name="logic_editor_more_block_hint_enter_block_label">أدخل نص التسمية</string>
+    <string name="logic_editor_more_block_hint_enter_new_block_name">* أدخل اسماً جديداً للكتلة</string>
+    <string name="logic_editor_more_block_hint_enter_variable_name">أدخل اسم متغير</string>
+    <string name="logic_editor_more_block_title_add_label">إضافة تسمية (Label)</string>
+    <string name="logic_editor_more_block_title_add_variable">إضافة متغير</string>
+    <string name="logic_editor_more_block_title_add_variable_type">إضافة نوع متغير</string>
+    <string name="logic_editor_more_block_title_name_of_block">اسم الكتلة</string>
+</resources>
